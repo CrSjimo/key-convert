@@ -1,9 +1,10 @@
 {
   "name": "key-convert",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Convert keycode sequence to key string",
   "main": "out/index.js",
   "scripts": {
+    "prepublishOnly": "tsc -p ./",
     "test": "mocha out/test"
   },
   "repository": {
