@@ -75,10 +75,10 @@ export enum XTermMap{
     'D' = Keys.left,
     'F' = Keys.end,
     'H' = Keys.home,
-    '1P' = Keys.f1,
-    '1Q' = Keys.f2,
-    '1R' = Keys.f3,
-    '1S' = Keys.f4,
+    'OP' = Keys.f1,
+    'OQ' = Keys.f2,
+    'OR' = Keys.f3,
+    'OS' = Keys.f4,
 }
 
 export enum OtherTermMap{
